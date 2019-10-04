@@ -1,0 +1,11 @@
+C:\ProjetoGit\Linq_SQL\ExercicioEmployee\ExercicioEmployee\bin\Debug\netcoreapp2.1\ExercicioEmployee.deps.json
+C:\ProjetoGit\Linq_SQL\ExercicioEmployee\ExercicioEmployee\bin\Debug\netcoreapp2.1\ExercicioEmployee.runtimeconfig.json
+C:\ProjetoGit\Linq_SQL\ExercicioEmployee\ExercicioEmployee\bin\Debug\netcoreapp2.1\ExercicioEmployee.runtimeconfig.dev.json
+C:\ProjetoGit\Linq_SQL\ExercicioEmployee\ExercicioEmployee\bin\Debug\netcoreapp2.1\ExercicioEmployee.dll
+C:\ProjetoGit\Linq_SQL\ExercicioEmployee\ExercicioEmployee\bin\Debug\netcoreapp2.1\ExercicioEmployee.pdb
+C:\ProjetoGit\Linq_SQL\ExercicioEmployee\ExercicioEmployee\obj\Debug\netcoreapp2.1\ExercicioEmployee.csprojAssemblyReference.cache
+C:\ProjetoGit\Linq_SQL\ExercicioEmployee\ExercicioEmployee\obj\Debug\netcoreapp2.1\ExercicioEmployee.csproj.CoreCompileInputs.cache
+C:\ProjetoGit\Linq_SQL\ExercicioEmployee\ExercicioEmployee\obj\Debug\netcoreapp2.1\ExercicioEmployee.AssemblyInfoInputs.cache
+C:\ProjetoGit\Linq_SQL\ExercicioEmployee\ExercicioEmployee\obj\Debug\netcoreapp2.1\ExercicioEmployee.AssemblyInfo.cs
+C:\ProjetoGit\Linq_SQL\ExercicioEmployee\ExercicioEmployee\obj\Debug\netcoreapp2.1\ExercicioEmployee.dll
+C:\ProjetoGit\Linq_SQL\ExercicioEmployee\ExercicioEmployee\obj\Debug\netcoreapp2.1\ExercicioEmployee.pdb
